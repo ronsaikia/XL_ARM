@@ -64,6 +64,3 @@ This repository contains the software modules required to run the XLARM system:
 * Physical Occlusion: Real-time tracking requires the target object to remain at least 40% visible; severe occlusion by the user's hand will temporarily drop the bounding box.
 * Cloud Dependency: High-level intent extraction requires an active internet connection to reach the Groq API. 
 
-## Authors
-MD Mehtab Hussain and Chiranjib Saikia (Team XL_ARM DUTABRO)
-submitted for the Arduino Physical AI Challenge India 2026
